@@ -1,2 +1,2 @@
 # calculator.cpp
-#Simple Calculator program
+Simple Calculator program
